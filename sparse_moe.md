@@ -96,3 +96,6 @@ The exact impact of cross-layer routing on parallel efficiency is something I'm 
 
 
 ---
+
+Also published on [Medium](https://medium.com/@lijunliu0510/rethinking-sparse-moe-through-real-world-analogies-388f1eb31855).
+
