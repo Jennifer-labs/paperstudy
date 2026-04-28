@@ -7,6 +7,7 @@ Original insights and real-world analogies from studying ML/AI papers — not su
 | Paper | My Insights |
 |-------|-------------|
 | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (Shazeer et al., 2017)](https://ar5iv.labs.arxiv.org/html/1701.06538) | [Rethinking Sparse MoE Through Real-World Analogies](sparse_moe.md) |
+| [Better & Faster Large Language Models via Multi-Token Prediction (Gloeckle et al., 2024)](https://ar5iv.labs.arxiv.org/html/2404.19737) | [Rethinking MTP Through Real-World Analogies](mtp.md) |
 
 ## About
 
