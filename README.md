@@ -8,6 +8,7 @@ Original insights and real-world analogies from studying ML/AI papers — not su
 |-------|-------------|
 | [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (Shazeer et al., 2017)](https://ar5iv.labs.arxiv.org/html/1701.06538) | [Rethinking Sparse MoE Through Real-World Analogies](sparse_moe.md) |
 | [Better & Faster Large Language Models via Multi-Token Prediction (Gloeckle et al., 2024)](https://ar5iv.labs.arxiv.org/html/2404.19737) | [Rethinking MTP Through Real-World Analogies](mtp.md) |
+| [DeepSeek-V4 Technical Report (DeepSeek-AI, 2026)](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) | [Rethinking How LLMs Remember: From KV Cache to Human-Like Learning](deepseek_v4_study.md) |
 
 ## About
 
